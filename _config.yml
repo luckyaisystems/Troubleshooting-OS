@@ -1,1 +1,13 @@
+remote_theme: just-the-docs/just-the-docs
+title: "Troubleshooting OS"
+description: "Investigative workflows for identifying, verifying, and resolving system failures across LuckyAISystems projects."
+
+just_the_docs:
+  collections:
+    artifacts:
+      output: true
+      permalink: /artifacts/:name
+    incident‑logs:
+      output: true
+      permalink: /incident‑logs/:name
 
