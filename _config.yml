@@ -7,7 +7,6 @@ just_the_docs:
     artifacts:
       output: true
       permalink: /artifacts/:name
-    incident‑logs:
+    incident-logs:
       output: true
-      permalink: /incident‑logs/:name
-
+      permalink: /incident-logs/:name
